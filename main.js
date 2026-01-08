@@ -349,9 +349,9 @@ function loadAbout() {
         <p><strong>Email:</strong> <a href="mailto:Zakariakalid@gmail.com" style="text-decoration:none; color:#259;">Zakariakalid@gmail.com</a></p>
         <p>
         
-          <a href="https://somali-unity-in-diversity-hj2ypsvq2-mrzaakirs-projects.vercel.app" target="_blank" rel="noopener" style="text-decoration:none; color:#259;">My Personal Portfolio</a>
-          &nbsp;|&nbsp;
-          <a href="https://github.com" target="_blank" rel="noopener" style="text-decoration:none; color:#259;">Visit My GitHub</a>
+          <a href="https://s3-js-dynamic-final-project-3rtwcbntx-mrzaakirs-projects.vercel.app/" target="_blank" rel="noopener" style="text-decoration:none; color:#259;">Visit My Dynamic Website</a>
+           &nbsp;|&nbsp;
+          <a href="https://somali-unity-in-diversity-hj2ypsvq2-mrzaakirs-projects.vercel.app" target="_blank" rel="noopener" style="text-decoration:none; color:#259;">My Final JS Project</a>
         </p>
       </div>
     </div>
